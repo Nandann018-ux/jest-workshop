@@ -45,11 +45,13 @@ Verifies flat discount is applied correctly.
 ---
 
 ## CI Pipeline (if implemented)
-- Did CI pass successfully? (Yes / No)
+- Did CI pass successfully? (Yes / No) Yes
 - GitHub Actions Run URL:
 
+https://github.com/Nandann018-ux/jest-workshop/actions/runs/21826010931
 ---
 
 ## Reflection (1–2 lines)
 What is **one thing** you understood better about testing or CI after this workshop?
 
+How to implement tests to the given workflow.
