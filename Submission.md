@@ -1,9 +1,9 @@
 # Jest Workshop Submission
 
 ## Student Details
-- Name:
-- Roll Number:
-- GitHub Username:
+- Name: Nandan S Acharya
+- Roll Number: 2024-B-17122006B
+- GitHub Username: Nandann018-ux
 
 ---
 
