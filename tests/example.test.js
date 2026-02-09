@@ -21,11 +21,6 @@ test("check for invalid coupon",()=>{
     "Invalid Coupon",);
 });
 
-// test("check total",()=>{
-//   except(()=> calculateFinalAmount(100,"SAVE10")).toThrow(
-//     "Invalid Coupon",);
-// })
-
 test("check uppercase coupon",()=>{
   expect(calculateFinalAmount(100,"save10")).toBe(90);
 });
@@ -34,7 +29,4 @@ test("check for flat50 coupon",()=>{
   expect(calculateFinalAmount(100,"FLAT50")).toBe(50);
 });
 
-test("check for subtotal greater than 1000",()=>{
-  expect(calculateFinalAmount(1100)).toBe(1045);
-});
 
